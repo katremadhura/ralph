@@ -3,5 +3,6 @@
 export("%>%")
 export(compute_corr)
 export(compute_ds)
+export(compute_ds_another_way)
 importFrom(magrittr,"%>%")
 importFrom(rlang,.data)
