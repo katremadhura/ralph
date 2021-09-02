@@ -20,6 +20,6 @@ a data frame containing descriptive statistics
 Computes Descriptive Statistics
 }
 \examples{
-compute_ds(data = faithful,var1 = 'eruptions', var2 = 'waiting')
+compute_ds_another_way(data = faithful,var1 = 'eruptions', var2 = 'waiting')
 
 }

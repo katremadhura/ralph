@@ -8,7 +8,7 @@
 #' @export
 #'
 #' @examples
-#' compute_ds(data = faithful,var1 = 'eruptions', var2 = 'waiting')
+#' compute_ds_another_way(data = faithful,var1 = 'eruptions', var2 = 'waiting')
 #'
 #' @importFrom rlang .data
 compute_ds_another_way <- function(data,var1,var2){
